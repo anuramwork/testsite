@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.heading{
+    width: 30%;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+
+}
